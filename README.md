@@ -9,7 +9,7 @@ management, and JWT security.
 
 ---
 
-## Repositories
+## 📂 Repositories
 
 - **Frontend Repository:** [GitHub Link](https://github.com/JonArbell/PEA-TODO-LIST-APPLICATION-FRONTEND)
 - **Backend Repository:** [GitHub Link](https://github.com/JonArbell/PEA-TODO-LIST-APPLICATION-BACKEND)
