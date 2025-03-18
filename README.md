@@ -7,8 +7,14 @@ management, and JWT security.
 
 - Currently undergoing a full revision to improve architecture, performance, and maintainability.
 
+---
 
 ## Repositories
 
 - **Frontend Repository:** [GitHub Link](https://github.com/JonArbell/PEA-TODO-LIST-APPLICATION-FRONTEND)
 - **Backend Repository:** [GitHub Link](https://github.com/JonArbell/PEA-TODO-LIST-APPLICATION-BACKEND)
+
+
+---
+
+👨‍💻 Developed & maintained by Jon Arbell De Ocampo
