@@ -11,10 +11,9 @@ management, and JWT security.
 
 ## 📂 Repositories
 
-- **Frontend Repository:** [GitHub Link](https://github.com/JonArbell/PEA-TODO-LIST-APPLICATION-FRONTEND)
-- **Backend Repository:** [GitHub Link](https://github.com/JonArbell/PEA-TODO-LIST-APPLICATION-BACKEND)
-
+- **Frontend Repository:** [GitHub - PEA TO-DO LIST APPLICATION Frontend Repository](https://github.com/JonArbell/PEA-TODO-LIST-APPLICATION-FRONTEND)
+- **Backend Repository:** [GitHub - PEA TO-DO LIST APPLICATION Frontend Repository](https://github.com/JonArbell/PEA-TODO-LIST-APPLICATION-BACKEND)
 
 ---
 
-👨‍💻 Developed & maintained by Jon Arbell De Ocampo
+👨‍💻 Developed & maintained by *Jon Arbell De Ocampo*
